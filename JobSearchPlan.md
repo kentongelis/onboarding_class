@@ -1,0 +1,7 @@
+Situation: Are you job seeking, already employed, or looking to change roles? What's your timeline?
+Target roles: List 2–3 role types you'll pursue. Look beyond "Software Engineer" (SWE): consider frontend/backend/full-stack developer, QA (quality assurance, testing software) or SDET (software development engineer in test, writing automated tests), solutions or support engineer, FDE (forward-deployed engineer, building solutions directly with customers), developer advocate, AI implementation roles, and contract or contract-to-hire roles.
+Target companies: A starting list of 15 companies, sorted into tiers (dream / realistic / safe). Include at least 3 small companies or startups.
+Your pitch: A two-sentence summary of who you are and what you're looking for.
+Weekly targets: How many outreach messages, informational interviews, tailored applications, and practice problems you'll do each week. (Suggested minimum: 10 outreach messages, 1 informational interview, 5 tailored applications, 3 practice problems.)
+Work authorization: If you need visa sponsorship or are on OPT (Optional Practical Training), note your key dates. (Private — share with the instructor only if you choose.)
+AI plan: Which AI tools will you use for preparation, and for what? See AI in the Job Search.
