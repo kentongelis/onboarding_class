@@ -1,7 +1,45 @@
-Situation: Are you job seeking, already employed, or looking to change roles? What's your timeline?
-Target roles: List 2–3 role types you'll pursue. Look beyond "Software Engineer" (SWE): consider frontend/backend/full-stack developer, QA (quality assurance, testing software) or SDET (software development engineer in test, writing automated tests), solutions or support engineer, FDE (forward-deployed engineer, building solutions directly with customers), developer advocate, AI implementation roles, and contract or contract-to-hire roles.
-Target companies: A starting list of 15 companies, sorted into tiers (dream / realistic / safe). Include at least 3 small companies or startups.
-Your pitch: A two-sentence summary of who you are and what you're looking for.
-Weekly targets: How many outreach messages, informational interviews, tailored applications, and practice problems you'll do each week. (Suggested minimum: 10 outreach messages, 1 informational interview, 5 tailored applications, 3 practice problems.)
-Work authorization: If you need visa sponsorship or are on OPT (Optional Practical Training), note your key dates. (Private — share with the instructor only if you choose.)
-AI plan: Which AI tools will you use for preparation, and for what? See AI in the Job Search.
+# Job Search Plan
+
+## Situation
+
+Job seeking. I'm looking for an internship for Spring and Summer 2027, and my goal is to have an offer within 6 months (by April 2027).
+
+## Target Roles
+
+All internships
+
+- Backend engineer 
+- AI engineer 
+- ML engineer
+
+## Target Companies
+
+| Tier | Company | Notes |
+|---|---|---|
+| Dream | | |
+Netflix, Waymo, ByteDance, Cisco, TikTok
+| Realistic | | |
+Scale AI, C3 AI, Annapurna Labs, Zipline
+| Safe | | |
+F5, Samsara, Tanium, Sigma, Rippling
+
+## Pitch
+
+I am a soon to be graduate from Dominican University of California looking for spring/summer internship roles before I begin my master's next fall. I am looking for software, ai, and ml engineering internship roles.
+
+## Weekly Targets
+
+| Activity | Per week |
+|---|---|
+| Outreach messages | 10 |
+| Informational interviews | 1 |
+| Tailored applications | 5 |
+| Practice problems | 3 |
+
+## Work Authorization
+
+N/A
+
+## AI Plan
+
+I'll use AI for system design studying and prep, and also as a means of practicing DSA
