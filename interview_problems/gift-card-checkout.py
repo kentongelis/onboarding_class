@@ -14,3 +14,6 @@ def balances(balances, target):
         seen[balances[i]] = i
 
 print(balances([25, 10, 40, 12, 30], 55))
+
+# Time Complexity: 0(n) one pass through, O(1) lookups through the dictionary
+# Space Complexity: O(n) because dictionary was created 
